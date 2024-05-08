@@ -1,4 +1,4 @@
-![image](https://github.com/SAUSy-Lab/Scarborough-Survey/assets/33732765/4b2e6e78-cd3a-4a37-97c5-3efd71f60c7b)# The Scarborough Survey
+# The Scarborough Survey
 This is the repository of the Scarborough survey, created by the [Suburban Mobilities Cluster at UTSC](https://www.utsc.utoronto.ca/suburban-mobilities/).
 
 ## Background
