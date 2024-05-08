@@ -1,4 +1,5 @@
-# The Scarborough Survey
+# The Scarborough Survey: An open dataset to explore suburban challenges in Canada
+
 This is the repository of the Scarborough survey, created by the [Suburban Mobilities Cluster at UTSC](https://www.utsc.utoronto.ca/suburban-mobilities/).
 
 ## Background
