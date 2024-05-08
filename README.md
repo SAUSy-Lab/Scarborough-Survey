@@ -18,15 +18,18 @@ Therefore, this dataset:
 - Contains data for the core section of the survey, alongside a data dictionary for easier use. 
 - Does not contain addresses but retain the first three digits of postal codes to enable aggregated geographical analysis.
 
+### Survey questionnaire
+[This file](https://github.com/SAUSy-Lab/Scarborough-Survey/blob/main/The%20Scarborough%20Survey%20-%20Questionnaire.pdf) contains the full survey questionnaire, organized in different sections.
+
 ### Survey data
-This file contains the answers from 1850 Scarboorugh residents. Only the core section of the survey is available, i.e., Section 2 (mobility and built environment), Section 3 (core module, with several questions about health, social capital and values) and Section 9 (sociodemographic module).
+[This file](https://github.com/SAUSy-Lab/Scarborough-Survey/blob/main/Survey%20Data.xlsx) contains the answers from 1850 Scarboorugh residents. Only the core section of the survey is available, i.e., Section 2 (mobility and built environment), Section 3 (core module, with several questions about health, social capital and values) and Section 9 (sociodemographic module).
 This file is password protected to follow our REB (pass: sumosurvey2023)
 
 Additional data can be accessed upon request. This data includes five more sections: Section 4 (Older adults and active transport), Section 5 (Health), Section 6 (Social capital), Section 7 (Political values) and Section 8 (Automobility).
 If any person wants to have access to the full dataset, please contact Ignacio Tiznado-Aitken (i.tiznadoaitken@utoronto.ca) for further information.
 
 ### Data dictionary
-This file contains all questions, codes, and notes to understand the survey data the best way possible.
+[This file](https://github.com/SAUSy-Lab/Scarborough-Survey/blob/main/Data%20Dictionary.xlsx) contains all questions, codes, and notes to understand the survey data the best way possible.
 This file is password protected to follow our REB (pass: sumosurvey2023).
 
 ### Descriptive figures
@@ -37,9 +40,12 @@ Folders "barcharts_sectionX" include one bar chart per each question included in
 If you want to know more about the particularities of the Scarborough context, a suburb in Canada where the survey was applied, and the design process, sampling strategy, representativeness, main descriptive results and ongoing academic articles, please refer to
 
 ### Credits and Authorship Policy
-For projects involving the use of the open version of the Scarborough Survey, please cite the dataset as follows:
-Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. Available at: 
-Please email Ignacio at i.tiznadoaitken@utoronto.ca to inform the use of this data, since we keep track of all projects using this dataset.
+Please cite the datapaper and dataset as follows:
+
+_Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. Available at:_
+_Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An open dataset to explore suburban challenges in Canada. Available at: https://github.com/SAUSy-Lab/Scarborough-Survey_
+
+For projects involving the use of the open version of the Scarborough Survey, please email Ignacio at i.tiznadoaitken@utoronto.ca since we keep track of all projects using this dataset.
 
 For projects involving the use of the full version of the Scarborough Survey (available upon request), Drs. Steven Farber and Ignacio Tiznado-Aitken will be invited to join as co-authors considering their contributions to survey design and data collection. They will review and comment on any draft before going out for publication. For each research project, it will be at the discretion of the authorship team whether Drs. Farber and Tiznado-Aitken will be invited to participate more fulsomely in defining research questions and advising on methods, among other forms of involvement over and above those required above.
 See more in our [Authorship Policy document](https://github.com/SAUSy-Lab/Scarborough-Survey/blob/main/Authorship%20Policy.pdf). Please email Ignacio at i.tiznadoaitken@utoronto.ca for further information.
