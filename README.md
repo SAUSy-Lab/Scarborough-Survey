@@ -42,7 +42,7 @@ If you want to know more about the particularities of the Scarborough context, a
 ### Credits and Authorship Policy
 Please cite the datapaper and dataset as follows:
 
-_Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. Available at:_
+_Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. Available at: https://osf.io/preprints/osf/s5jxh_
 
 _Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An open dataset to explore suburban challenges in Canada. Available at: https://github.com/SAUSy-Lab/Scarborough-Survey_
 
@@ -67,5 +67,5 @@ Here is a list of academic papers, either published or in preparation (latest up
 10. Farber, S., Higgins, C., Tiznado-Aitken, I., Jamal, S., Parga, J., & Yu, A. (2024). Analyzing access to opportunities, sociodemographic differences, and impacts on quality of life in Scarborough, Canada. Suburban Mobilities Cluster report. Available at: https://assets.cmhc-schl.gc.ca/sf/project/archive/research_6/analyzing-access-to-opportunities-in-scarborough-canada.pdf
 11. Tiznado-Aitken, I., Yin, Z. & Farber, S. (2024). Towards sustainable neighbourhoods? Tensions and heterogeneous transport priorities among suburban residents Manuscript in preparation.
 12. Yin, Z., Jamal, S. & Farber, S. (2024). The determinants of neighbourhood satisfaction in Scarborough, Canada. Manuscript in preparation.
-13. Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough.
+13. Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. Available at: https://osf.io/preprints/osf/s5jxh
 
