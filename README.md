@@ -42,7 +42,7 @@ If you want to know more about the particularities of the Scarborough context, a
 ### Credits and Authorship Policy
 Please cite the datapaper and dataset as follows:
 
-_Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. Available at: https://osf.io/preprints/osf/s5jxh_
+_Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. DOI: https://doi.org/10.31219/osf.io/s5jxh_
 
 _Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An open dataset to explore suburban challenges in Canada. Available at: https://github.com/SAUSy-Lab/Scarborough-Survey_
 
