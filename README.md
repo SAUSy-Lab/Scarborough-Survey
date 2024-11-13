@@ -56,16 +56,18 @@ See more in our [Authorship Policy document](https://github.com/SAUSy-Lab/Scarbo
 Here is a list of academic papers, either published or in preparation (latest update: May 2024)
 
 1. Lyeo, J. S., Tiznado-Aitken, I., Farber, S., Brown, H. K., & Spence, N. (2023). Predictors of transportation-related barriers to healthcare access in a North American suburb. Journal of Public Health, 1-12. DOI: https://doi.org/10.1007%2Fs10389-023-01916-2 
-2. Jamal, S., Tiznado-Aitken, I., & Farber, S. (2024a). Is online service usage more of a sociodemographic phenomenon? Exploring equity implications of online grocery, e-shopping, and restaurant delivery service usage in a suburban context. Manuscript in preparation.
-3. Jamal, S., Tiznado-Aitken, I., & Farber, S. (2024b). Quality of life in the suburbs: Understanding the interplay between affordable housing, neighbourhood quality and accessibility. Manuscript in preparation.
-4. Teel, S., Smith, L., & Farber, S. (2024). Mobilities of Care in Scarborough: Analysing caregiving transportation patterns through predictive modelling. Manuscript in preparation.
-5. Li, C., Higgins, C., Tiznado-Aitken, I., & Farber, S. (2024). Exploring the relationships between physical accessibility, online shopping, and travel behaviour for grocery shopping in Scarborough, Canada. Manuscript in preparation.
-6. Daoleuxay, Y., Silver, D., Jamal, S., Tiznado-Aitken, I., & Farber, S. (2024). A Multivariate Analysis of Scarborough Residents’ Perceptions of Automated Vehicles. Manuscript in preparation.
-7. Calderón-Figueroa, F., Jamal, S., Tiznado-Aitken, I. & Farber, S. (2024). Social capital and urban infrastructure in Scarborough. Manuscript in preparation. 
-8. Khachatryan, A., Voorheis, P., Tiznado-Aitken, I., & Silver, M. (2024). Understanding the Behavioural Determinants of Active Travel Among Older Adults: A Mixed Methods Study. Manuscript under review. 
-9. Parga, J., Tiznado-Aitken, I., Jamal, S., Yu, A., Farber, S., & Higgins, C. (2024). Accessibility, Perceptions, and Self-Rated Health in the Suburbs: Evidence from Scarborough, Canada. Manuscript under review
-10. Farber, S., Higgins, C., Tiznado-Aitken, I., Jamal, S., Parga, J., & Yu, A. (2024). Analyzing access to opportunities, sociodemographic differences, and impacts on quality of life in Scarborough, Canada. Suburban Mobilities Cluster report. Available at: https://assets.cmhc-schl.gc.ca/sf/project/archive/research_6/analyzing-access-to-opportunities-in-scarborough-canada.pdf
-11. Tiznado-Aitken, I., Yin, Z. & Farber, S. (2024). Towards sustainable neighbourhoods? Tensions and heterogeneous transport priorities among suburban residents Manuscript in preparation.
-12. Yin, Z., Jamal, S. & Farber, S. (2024). The determinants of neighbourhood satisfaction in Scarborough, Canada. Manuscript in preparation.
-13. Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. DOI: https://doi.org/10.31219/osf.io/s5jxh 
+2. Kachatryan, A., Voorheis, P., Tiznado-Aitken, I., & Silver, M. (2024). Understanding the behavioural determinants of active travel among older adults: A mixed methods study. Journal of Transport and Health, 39, 101901. DOI: https://doi.org/10.1016/j.jth.2024.101901
+3. Parga, J. P. F. A., Tiznado-Aitken, I., Jamal, S., Farber, S., Yu, A., & Higgins, C. (2024). Perceived accessibility and self-rated health: Examining subjective well-being in the suburbs of Scarborough, Canada. Transportation Research Part A: Policy and Practice, 190, 104261. DOI: https://doi.org/10.1016/j.tra.2024.104261
+4. Farber, S., Higgins, C., Tiznado-Aitken, I., Jamal, S., Parga, J., & Yu, A. (2024). Analyzing access to opportunities, sociodemographic differences, and impacts on quality of life in Scarborough, Canada. Suburban Mobilities Cluster report. Available at: https://assets.cmhc-schl.gc.ca/sf/project/archive/research_6/analyzing-access-to-opportunities-in-scarborough-canada.pdf
+5. Tiznado-Aitken, I. & Farber, S. (2024). The Scarborough Survey: An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Suburban Mobilities Cluster, University of Toronto Scarborough. DOI: https://doi.org/10.31219/osf.io/s5jxh
+6. Tiznado-Aitken, I. & Farber, S. (2024). An interdisciplinary hybrid instrument to explore suburban challenges in Canada. Transportation. DOI: https://doi.org/10.1007/s11116-024-10547-9
+7. Tiznado-Aitken, I., Yin, Z. & Farber, S. (2024). Towards sustainable neighbourhoods? Tensions and heterogeneous transport priorities among suburban residents. Manuscript accepted.
+8. Yin, Z., Jamal, S. & Farber, S. (2024). The determinants of neighbourhood satisfaction in Scarborough, Canada. Manuscript under review.
+9. Jamal, S., Tiznado-Aitken, I., & Farber, S. (2024a). Is online service usage more of a sociodemographic phenomenon? Exploring equity implications of online grocery, e-shopping, and restaurant delivery service usage in a suburban context. Manuscript under review.
+10. Jamal, S., Tiznado-Aitken, I., & Farber, S. (2024b). Quality of life in the suburbs: Understanding the interplay between affordable housing, neighbourhood quality and accessibility. Manuscript under review.
+11. Li, C., Higgins, C., Tiznado-Aitken, I., & Farber, S. (2024). Exploring the relationships between physical accessibility, online shopping, and travel behaviour for grocery shopping in Scarborough, Canada. Manuscript under review.
+12. Calderón-Figueroa, F., Jamal, S., Tiznado-Aitken, I. & Farber, S. (2024). Social capital and urban infrastructure in Scarborough. Manuscript in preparation.
+13. Teel, S., Smith, L., & Farber, S. (2024). Mobilities of Care in Scarborough: Analysing caregiving transportation patterns through predictive modelling. Manuscript in preparation.
+14. Daoleuxay, Y., Silver, D., Jamal, S., Tiznado-Aitken, I., & Farber, S. (2024). A Multivariate Analysis of Scarborough Residents’ Perceptions of Automated Vehicles. Manuscript in preparation.
+
 
